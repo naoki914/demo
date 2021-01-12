@@ -13,5 +13,6 @@
   "profile": {
     "name": "typicode"
   },
-  "is_available": true
+  "availability": {
+    "is_available": true
 }
