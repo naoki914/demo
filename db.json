@@ -5,6 +5,9 @@
     { "id": 3, "title": "Post 3" },
     { "id": 4, "title": "Post 3" }
   ],
+  "availability": {
+    "is_available": true
+  },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 },
@@ -12,8 +15,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "availability": {
-    "is_available": true
   }
 }
